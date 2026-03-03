@@ -231,6 +231,7 @@ export default withMermaid(defineConfig({
     },
   },
   head: [
+    ['link', { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' }],
     ['meta', { name: 'google-site-verification', content: '7B8csMYFOdvV0gzceMtR7a35llw1xqWXLeFp3AY4joo' }],
     ['meta', { name: 'msvalidate.01', content: 'FDCCD88DCD82F43265BDB13F25164705' }],
     ['meta', { name: 'indexnow-key', content: 'b5c07ad1556cbf950d03b26f7e17f4e8' }],
