@@ -58,6 +58,7 @@ sidebarTitle: "连接聊天软件"
 - [IRC](/tutorials/channels/irc) — IRC 经典协议
 - [GrammY](/tutorials/channels/grammy) — Telegram GrammY 框架接入
 - [Nostr](/tutorials/channels/nostr) — 去中心化社交协议
+- [Synology Chat](/tutorials/channels/synology-chat) — 插件通道，基于 incoming / outgoing webhook
 - [Tlon](/tutorials/channels/tlon) — Tlon/Urbit 通讯
 - [Twitch](/tutorials/channels/twitch) — Twitch 直播聊天室
 - [Zalo](/tutorials/channels/zalo) — 越南 Zalo（企业账号）

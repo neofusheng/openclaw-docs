@@ -67,6 +67,7 @@ openclaw configure
 
 - [Anthropic (Claude)](/tutorials/providers/anthropic) — 推荐新手从这里开始
 - [OpenAI (ChatGPT)](/tutorials/providers/openai) — OpenAI API 配置
+- [Mistral](/tutorials/providers/mistral) — 文本、图像、音频转录一体化
 - [Ollama（本地模型，完全免费）](/tutorials/providers/ollama) — 在自己电脑上运行 AI
 - [OpenRouter](/tutorials/providers/openrouter) — 一个账号访问多家 AI
 
@@ -85,6 +86,7 @@ openclaw configure
 - [AWS Bedrock](/tutorials/providers/bedrock) — 亚马逊云 AI 服务
 - [Cloudflare AI Gateway](/tutorials/providers/cloudflare-ai-gateway) — Cloudflare AI 网关代理
 - [Vercel AI Gateway](/tutorials/providers/vercel-ai-gateway) — Vercel AI 网关代理
+- [Kilo Gateway](/tutorials/providers/kilocode) — 统一 API Key 访问多家模型
 - [NVIDIA](/tutorials/providers/nvidia) — NVIDIA NIM 推理服务
 - [GitHub Copilot](/tutorials/providers/github-copilot) — GitHub Copilot API
 - [HuggingFace](/tutorials/providers/huggingface) — HuggingFace 推理端点
@@ -96,6 +98,7 @@ openclaw configure
 - [Together AI](/tutorials/providers/together) — Together 推理服务
 - [Venice AI](/tutorials/providers/venice) — Venice 隐私优先推理
 - [OpenCode](/tutorials/providers/opencode) — OpenCode 兼容端点
+- [OpenCode Go](/tutorials/providers/opencode-go) — OpenCode 的 Go 模型目录
 
 ### 自定义接入
 
