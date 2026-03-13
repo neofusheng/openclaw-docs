@@ -100,6 +100,7 @@ openclaw-docs/
 - **官方英文文档**：[docs.openclaw.ai](https://docs.openclaw.ai)
 - **本站中文文档**：[openclaw-docs.dx3n.cn](https://openclaw-docs.dx3n.cn)
 - **部署平台**：Azure Static Web Apps
+- **AI龙虾实战案例**：[sanwan.ai](https://sanwan.ai) — OpenClaw Agent 自主建站运营30天实录，附完整技能清单与日记
 
 ---
 
